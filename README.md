@@ -93,21 +93,6 @@ With a UK-standard education and hands-on experience across the full development
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Lumina Studio
-> A creative studio web platform built with modern architecture
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/NavabalanRaajGughan-Dev/lumina-studio)
-
-**Tech:** TypeScript, React, Modern CSS
-
-**Highlights:**
-- Component-driven architecture
-- Responsive design across all devices
-- Clean, maintainable codebase
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 Developer Portfolio
 > Personal portfolio showcasing my work and expertise
 
@@ -121,8 +106,6 @@ With a UK-standard education and hands-on experience across the full development
 - SEO-friendly structure
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Platform *(In Progress)*
@@ -134,21 +117,6 @@ With a UK-standard education and hands-on experience across the full development
 - User auth & role-based access
 - Payment gateway integration
 - Admin dashboard with analytics
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ To-Do List App
-> A clean, functional task management application
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/NavabalanRaajGughan-Dev/To-Do-List-JavaScript)
-
-**Tech:** HTML, CSS, JavaScript
-
-**Highlights:**
-- CRUD operations
-- Local storage persistence
-- Responsive interface
 
 </td>
 </tr>
