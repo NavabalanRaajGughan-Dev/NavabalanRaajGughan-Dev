@@ -82,7 +82,6 @@ I'm a dedicated **Software Engineer** with a passion for building scalable, effi
 
 [![Lumina Studio](https://github-readme-stats.vercel.app/api/pin/?username=NavabalanRaajGughan-Dev&repo=lumina-studio&theme=tokyonight&hide_border=true)](https://github.com/NavabalanRaajGughan-Dev/lumina-studio)
 [![Restaurant Project](https://github-readme-stats.vercel.app/api/pin/?username=NavabalanRaajGughan-Dev&repo=restaurant-project&theme=tokyonight&hide_border=true)](https://github.com/NavabalanRaajGughan-Dev/restaurant-project)
-[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=NavabalanRaajGughan-Dev&repo=To-Do-List-JavaScript&theme=tokyonight&hide_border=true)](https://github.com/NavabalanRaajGughan-Dev/To-Do-List-JavaScript)
 
 </div>
 
