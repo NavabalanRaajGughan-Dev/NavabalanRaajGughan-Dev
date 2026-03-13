@@ -35,7 +35,7 @@ I'm a dedicated **Software Engineer** with a passion for building scalable, effi
 | Degree | Institution | Duration |
 |--------|-------------|----------|
 | **BSc (Hons) Software Engineering** | Solent University, UK | 2024 – 2025 |
-| **HND in Software Engineering** | BTech | 2020 – 2023 |
+| **BTech HND in Software Engineering** | BCAS | 2020 – 2023 |
 
 ---
 
