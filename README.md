@@ -1,6 +1,9 @@
-# 👋 Navabalan RaajGughan
+# 👋 Navabalan RaajGughan — GitHub Overview
 
-**GitHub:** [NavabalanRaajGughan-Dev](https://github.com/NavabalanRaajGughan-Dev)
+**Portfolio :** [🌐 Portfolio](https://your-portfolio-link.com)
+**GitHub    :** [NavabalanRaajGughan-Dev](https://github.com/NavabalanRaajGughan-Dev)
+**Linked In :** [💼 LinkedIn](https://linkedin.com/in/your-linkedin)
+**Email     :** [✉️ Email](mailto:your-email@example.com)
 ---
 
 ## 💻 About Me
@@ -10,12 +13,12 @@ Software Engineer | Full Stack Developer | Open Source Enthusiast
 ```
 const navabalan = {
     role: "Software Engineer",
-    code: ["Java", "JavaScript", "Python"],
+    code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
-        frontend: ["React", "HTML", "CSS"],
-        backend: ["Node.js", "Spring Boot"],
-        databases: ["MySQL", "MongoDB"],
-        devops: ["Docker", "Linux", "Git"]
+        frontend: ["Next.JS", "React.JS", "HTML", "CSS"],
+        backend: ["Node.js", "Express"],
+        databases: ["PostgreSQL", "MongoDB"],
+        devops: ["Docker", "AWS", "Git"]
     },
     currentFocus: "Building scalable and efficient applications",
     motto: "Build • Learn • Innovate"
@@ -88,7 +91,7 @@ JavaScript  ░░░░░░░░░░░░░░░░░░░░░░�
 
 #### 🛠️ Tech DNA
 
-`Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `Lenis` · `Swiper` · `Zustand`
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `Lenis` · `Swiper` · `Zustand`
 
 ---
 
@@ -133,26 +136,14 @@ JavaScript  ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🛠️ Tech Stack Overview
-
-**Languages:** Java · JavaScript · Python · TypeScript
-
-**Frontend:** React · HTML · CSS · Tailwind CSS · Next.js
-
-**Backend:** Node.js · Spring Boot
-
-**Databases:** MySQL · MongoDB
-
-**Animation & UI:** GSAP · Framer Motion · Lenis · Swiper
-
-**DevOps & Tools:** Docker · Linux · Git
-
----
-
 ## 📫 Connect
 
-- **GitHub:** [github.com/NavabalanRaajGughan-Dev](https://github.com/NavabalanRaajGughan-Dev)
+[🌐 Portfolio](https://your-portfolio-link.com) · [💻 GitHub](https://github.com/NavabalanRaajGughan-Dev) · [💼 LinkedIn](https://linkedin.com/in/your-linkedin) · [✉️ Email](mailto:your-email@example.com)
 
 ---
 
-*"Build • Learn • Innovate"*
+<div align="center">
+
+*✦ "Build • Learn • Innovate" ✦*
+
+</div>
