@@ -1,7 +1,6 @@
-# 👋 Navabalan RaajGughan — GitHub Overview
+# 👋 Navabalan RaajGughan
 
 **GitHub:** [NavabalanRaajGughan-Dev](https://github.com/NavabalanRaajGughan-Dev)
-
 ---
 
 ## 💻 About Me
