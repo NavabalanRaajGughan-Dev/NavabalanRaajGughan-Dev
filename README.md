@@ -19,7 +19,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Your Name
+name: Navabalan RaajGughan
 location: Your City, Country
 role: Full-Stack Developer
 experience: X+ years
